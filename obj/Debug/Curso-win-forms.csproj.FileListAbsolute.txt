@@ -1,0 +1,12 @@
+C:\PROJETOS\CURSO WINFORMS C#\Curso-win-forms\bin\Debug\Curso-win-forms.exe.config
+C:\PROJETOS\CURSO WINFORMS C#\Curso-win-forms\bin\Debug\Curso-win-forms.exe
+C:\PROJETOS\CURSO WINFORMS C#\Curso-win-forms\bin\Debug\Curso-win-forms.pdb
+C:\PROJETOS\CURSO WINFORMS C#\Curso-win-forms\obj\Debug\Curso-win-forms.csproj.AssemblyReference.cache
+C:\PROJETOS\CURSO WINFORMS C#\Curso-win-forms\obj\Debug\Curso_win_forms.Form1.resources
+C:\PROJETOS\CURSO WINFORMS C#\Curso-win-forms\obj\Debug\Curso_win_forms.Properties.Resources.resources
+C:\PROJETOS\CURSO WINFORMS C#\Curso-win-forms\obj\Debug\Curso-win-forms.csproj.GenerateResource.cache
+C:\PROJETOS\CURSO WINFORMS C#\Curso-win-forms\obj\Debug\Curso-win-forms.csproj.CoreCompileInputs.cache
+C:\PROJETOS\CURSO WINFORMS C#\Curso-win-forms\obj\Debug\Curso-win-forms.exe
+C:\PROJETOS\CURSO WINFORMS C#\Curso-win-forms\obj\Debug\Curso-win-forms.pdb
+C:\PROJETOS\CURSO WINFORMS C#\Curso-win-forms\obj\Debug\Curso_win_forms.Form2.resources
+C:\PROJETOS\CURSO WINFORMS C#\Curso-win-forms\obj\Debug\Curso_win_forms.Cadastro.resources
