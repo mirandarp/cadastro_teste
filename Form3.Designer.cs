@@ -63,6 +63,7 @@
             this.idadeBox.Name = "idadeBox";
             this.idadeBox.Size = new System.Drawing.Size(28, 20);
             this.idadeBox.TabIndex = 2;
+            
             // 
             // label2
             // 
@@ -128,7 +129,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.MenuBar;
-            this.ClientSize = new System.Drawing.Size(662, 442);
+            this.ClientSize = new System.Drawing.Size(342, 377);
             this.Controls.Add(this.listaDados);
             this.Controls.Add(this.telefoneBox);
             this.Controls.Add(this.botaoCadastrar);

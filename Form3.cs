@@ -35,6 +35,10 @@ namespace Curso_win_forms
             string idade = idadeBox.Text;
             string telefone = telefoneBox.Text;
 
+
+
+
+
             dynamic msg = "";
 
             if (Convert.ToInt32(idade) >= 18)
@@ -46,7 +50,7 @@ namespace Curso_win_forms
                 idadeBox.Text = "";
                 telefoneBox.Text = "";
 
-                listaDados.Items.Add($"Nome: {nome}" );
+                listaDados.Items.Add($"Nome: {nome}");
                 listaDados.Items.Add($"Idade: {idade}");
                 listaDados.Items.Add($"Telefone: {telefone}");
 
@@ -70,7 +74,7 @@ namespace Curso_win_forms
             //
         }
 
-
+    
     }
 }
 
