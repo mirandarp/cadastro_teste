@@ -37,6 +37,7 @@
             this.label4 = new System.Windows.Forms.Label();
             this.botaoCadastrar = new System.Windows.Forms.Button();
             this.telefoneBox = new System.Windows.Forms.MaskedTextBox();
+            this.listaDados = new System.Windows.Forms.ListView();
             this.SuspendLayout();
             // 
             // label1
@@ -111,12 +112,24 @@
             this.telefoneBox.Size = new System.Drawing.Size(87, 20);
             this.telefoneBox.TabIndex = 3;
             // 
+            // listaDados
+            // 
+            this.listaDados.HideSelection = false;
+            this.listaDados.LabelEdit = true;
+            this.listaDados.Location = new System.Drawing.Point(17, 156);
+            this.listaDados.Name = "listaDados";
+            this.listaDados.Size = new System.Drawing.Size(297, 180);
+            this.listaDados.TabIndex = 8;
+            this.listaDados.UseCompatibleStateImageBehavior = false;
+            this.listaDados.View = System.Windows.Forms.View.Tile;
+            // 
             // Cadastro
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.MenuBar;
-            this.ClientSize = new System.Drawing.Size(373, 219);
+            this.ClientSize = new System.Drawing.Size(662, 442);
+            this.Controls.Add(this.listaDados);
             this.Controls.Add(this.telefoneBox);
             this.Controls.Add(this.botaoCadastrar);
             this.Controls.Add(this.label4);
@@ -144,5 +157,6 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button botaoCadastrar;
         private System.Windows.Forms.MaskedTextBox telefoneBox;
+        private System.Windows.Forms.ListView listaDados;
     }
 }

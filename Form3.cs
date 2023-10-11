@@ -39,12 +39,23 @@ namespace Curso_win_forms
 
             if (Convert.ToInt32(idade) >= 18)
             {
+
                 msg = "Cadastro realizado com sucesso";
                 MessageBox.Show($"Nome: {nome} Idade: {idade} Telefone: {telefone} {msg}");
                 nomeBox.Text = "";
                 idadeBox.Text = "";
                 telefoneBox.Text = "";
-                
+
+                listaDados.Items.Add($"Nome: {nome}" );
+                listaDados.Items.Add($"Idade: {idade}");
+                listaDados.Items.Add($"Telefone: {telefone}");
+
+
+
+
+
+
+
             }
             else
             {
@@ -55,7 +66,8 @@ namespace Curso_win_forms
                 telefoneBox.Text = "";
             }
 
-
+            //colocar os dados aqui nesse campo listaDados
+            //
         }
 
 
